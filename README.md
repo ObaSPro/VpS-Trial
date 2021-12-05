@@ -21,5 +21,3 @@
 >Toturial :https://youtu.be/wFDYTKDngDw
 
 
->Kang Recode
->https://github.com/Nino12p/VPS-TRIAL1
