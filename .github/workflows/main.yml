@@ -1,4 +1,4 @@
-# name: ObaSPro
+ name: ObaSPro
 
 on: workflow_dispatch
 
