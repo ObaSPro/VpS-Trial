@@ -16,3 +16,10 @@
 > Refresh Web and go to CI> build
 
 > Press Down facing arrow button "RDP INFO LOGIN" To Get IP, User, Password.
+
+
+
+
+WARN
+
+DON'T RECODE THIS SC!
