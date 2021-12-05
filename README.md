@@ -21,10 +21,5 @@
 >Toturial :https://youtu.be/wFDYTKDngDw
 
 
-WARN
-
-DON'T RECODE THIS SC!
-
-
 >Kang Recode
 >https://github.com/Nino12p/VPS-TRIAL1
