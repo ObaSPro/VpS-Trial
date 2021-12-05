@@ -18,6 +18,7 @@
 > Press Down facing arrow button "RDP INFO LOGIN" To Get IP, User, Password.
 
 
+>Toturial :https://youtu.be/wFDYTKDngDw
 
 
 WARN
